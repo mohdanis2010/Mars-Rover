@@ -8,7 +8,7 @@
     "start": "node app/index.js"
   },
   "author": "Anis",
-  "homepage": "https://github.com/max-winderbaum/marsRover#readme",
+  "homepage": "",
   "devDependencies": {
     "jasmine-node": "^1.14.5",
     "node": "0.0.0",
